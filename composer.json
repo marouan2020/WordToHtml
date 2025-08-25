@@ -1,0 +1,13 @@
+{
+  "name": "marouan2020/word-to-html",
+  "description": "Convert DOCX to HTML using LibreOffice headless",
+  "type": "library",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "WordToHtml\\": "src/"
+    }
+  }
+}
