@@ -22,4 +22,4 @@ Useful for extracting structured HTML content from Word files inside PHP applica
 Require the package with Composer:
 
 ```bash
-composer require ton-vendor/word-to-html
+composer require marouan2020/word-to-html
